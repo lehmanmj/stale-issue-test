@@ -22,9 +22,9 @@ jobs:
 
         # These labels are required
         stale-issue-label: 'closing-soon'
-        exempt-issue-labels: 'awaiting-approval'
+        exempt-issue-label: 'awaiting-approval'
         stale-pr-label: 'no-pr-activity'
-        exempt-pr-labels: 'awaiting-approval'
+        exempt-pr-label: 'awaiting-approval'
         response-requested-label: 'response-requested'
 
         # Don't set this to not apply a label when closing issues
